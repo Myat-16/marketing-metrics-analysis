@@ -18,3 +18,29 @@
 4. For RFM, I used Customer ID and Invoice No. 
 5. Cleaned and processed millions of rows in Python
 
+6. 🔧 Approaches
+
+1. Processed & Cleaned Data in Python
+-- Handled and transformed millions of rows using Python, performing tasks such as data type correction, null handling, outlier treatment, feature engineering, and dataset restructuring for advanced analysis.
+2. Analyzed Public Kaggle Transactions Dataset
+--Utilized the publicly available retail transactions dataset to explore key business questions, including:
+
+3. Which countries have the highest number of transactions
+
+Cohort retention and customer lifecycle behavior
+
+Pareto 80/20 contribution of customers and products
+
+RFM segmentation for customer value analysis
+
+Selected Key Columns for Transaction Volume Analysis
+Focused on the following fields to determine transaction distribution across countries:
+InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country
+
+Engineered Cohort Analysis Features
+Applied additional transformations for month-based cohort grouping using:
+InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country, Revenue, Invoice Month, Cohort Month, Cohort Index
+
+Built RFM Segmentation Inputs
+Used CustomerID and InvoiceNo to compute Recency, Frequency, and Monetary metrics for customer clustering and value segmentation.
+
