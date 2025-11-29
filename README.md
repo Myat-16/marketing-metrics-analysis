@@ -1,3 +1,4 @@
+# Project Name: Marketing Metrics Analysis
 # Data Source: https://www.kaggle.com/code/mustafacicek/detailed-marketing-cohort-pareto-rfm-forecast
 ## Key Business Impacts
 1. Tracking countries with highest transaction volumes allows e-commerce teams to prioritize logistics and marketing investments in top markets, reducing shipping costs and boosting local revenue.
