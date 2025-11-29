@@ -7,7 +7,7 @@
 4. Segmenting customers by RFM scores prioritizes Champions (high R/F/M) for VIP loyalty programs, achieving 5x higher response rates.
 5. Analyzing transaction volume by country-job combinations optimizes international expansion, focusing 60% marketing budget on high-transaction UK management segments.
 
-### Approaches
+### Approaches Details
 
 1. Processed & Cleaned Data in Python
 + Handled and transformed millions of rows using Python, performing tasks such as data type correction, null handling, outlier treatment, feature engineering, and dataset restructuring for advanced analysis.
