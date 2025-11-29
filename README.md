@@ -13,10 +13,10 @@
 2. Analyzed Public Kaggle Transactions Dataset
 --Utilized the publicly available retail transactions dataset to explore key business questions, including:
 
--- Which countries have the highest number of transactions
--- Cohort retention and customer lifecycle behavior
--- Pareto 80/20 contribution of customers and products
--- RFM segmentation for customer value analysis
++ Which countries have the highest number of transactions
++ Cohort retention and customer lifecycle behavior
++ Pareto 80/20 contribution of customers and products
++ RFM segmentation for customer value analysis
 
 #### Selected Key Columns for Transaction Volume Analysis
 Focused on the following fields to determine transaction distribution across countries:
