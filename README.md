@@ -1,5 +1,5 @@
 # Project Name: Marketing Metrics Analysis
-# Data Source: https://www.kaggle.com/code/mustafacicek/detailed-marketing-cohort-pareto-rfm-forecast
+#### Data Source: https://www.kaggle.com/code/mustafacicek/detailed-marketing-cohort-pareto-rfm-forecast
 ## Key Business Impacts
 1. Tracking countries with highest transaction volumes allows e-commerce teams to prioritize logistics and marketing investments in top markets, reducing shipping costs and boosting local revenue.
 2. Conducting cohort analysis reveals customer retention patterns by first purchase month, enabling targeted win-back campaigns that recover Month-3 drop-off customers and increase LTV.
