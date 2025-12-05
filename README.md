@@ -29,4 +29,8 @@ InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID,
 #### RFM Segmentation Inputs
 Used CustomerID and InvoiceNo to compute Recency, Frequency, and Monetary metrics for customer clustering and value segmentation.
 
-[alt Text] <img width="884" height="701" alt="image" src="https://github.com/user-attachments/assets/81d7e323-3bde-4a16-8078-441a7d0801ff" />
+ <img width="884" height="701" alt="image" src="https://github.com/user-attachments/assets/81d7e323-3bde-4a16-8078-441a7d0801ff" />
+ ## Cohort Analysis 
+ <img width="768" height="656" alt="image" src="https://github.com/user-attachments/assets/36ab5eda-d7af-4595-b3ba-fa5d4ee234be" />
+
+ 
